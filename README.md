@@ -1,0 +1,1 @@
+Faker is a Python package that generates fake data for various purposes. It can create names, addresses, emails, phone numbers, dates, and much more. Here I have generated random personal data and specify the number of entries to generate.
